@@ -1,20 +1,16 @@
-# MyThesis Project
+# Aspect-Based Sentiment Analysis Thesis
 
-This repository contains the research thesis, datasets, and scripts for the analysis.
+This repository contains the research thesis, datasets, and scripts for **Aspect-Based Sentiment Analysis (ABSA)**. The project focuses on analyzing sentiments at a granular level by categorizing opinions based on specific aspects rather than overall sentiment.
 
 ## Folder Structure
-- **data/** - Contains all dataset files (CSV, ODS, TXT, etc.).
-- **scripts/** - R and Python scripts used for analysis.
-- **images/** - Visual representations, diagrams, and plots.
-- **documentation/** - Reference materials, literature reviews, and PDFs.
-- **misc/** - Other files (backup, history, etc.).
+- **📂 data/** – Datasets used for training, validation, and testing (CSV, ODS, TXT).
+- **📜 scripts/** – R and Python scripts for data preprocessing, model training, and sentiment analysis.
+- **🖼️ images/** – Visualizations, graphs, and sentiment heatmaps.
+- **📖 documentation/** – Literature reviews, research papers, and supporting materials.
+- **📁 misc/** – Other files (backups, history, etc.).
 
 ## How to Use
-1. Clone the repository.
-2. Navigate to the `scripts/` folder and run the necessary R/Python scripts.
-3. Refer to `data/` for raw and processed datasets.
-4. Check `images/` for relevant visualizations.
-5. Use `documentation/` for additional reading.
-
-## License
-This project is for academic purposes.
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/yourusername/MyThesis.git
+   cd MyThesis
